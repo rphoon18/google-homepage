@@ -1,0 +1,27 @@
+.topbar-items{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+}
+
+.topbar-items li {
+    float:right;
+}
+
+.topbar-items li a{
+    display: block;
+    text-align: center;
+    padding: 14px 10px;
+    font-size: 13px;
+}
+
+.topbar {
+	width: 100%;
+	height: 50px;
+    margin-bottom: 150px;
+}
+
+.box {
+    width: 500px;
+    margin: 0;
+}
